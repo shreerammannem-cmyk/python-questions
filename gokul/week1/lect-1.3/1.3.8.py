@@ -7,3 +7,4 @@
 # print["hello"]
 # print<"hello">
 # ```
+() are valid in Python

@@ -2,3 +2,5 @@
 # ```
 # LINE-1
 # print(a*2)
+a=input("gokul")
+print(a*2)

@@ -2,3 +2,4 @@
 
 x=input()
 
+print(x.startswith("I") or x.endswith("N"))

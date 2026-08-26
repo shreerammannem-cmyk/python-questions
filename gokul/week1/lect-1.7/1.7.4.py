@@ -10,3 +10,10 @@
     # print(type(l[1]))
 #     ```
 
+list
+30
+int
+10
+int 
+20.2
+float

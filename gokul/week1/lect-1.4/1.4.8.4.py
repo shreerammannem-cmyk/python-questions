@@ -7,3 +7,5 @@ y=int(x)
 print(a)
 print(type(x))
 print(type(y))
+21
+SyntaxError

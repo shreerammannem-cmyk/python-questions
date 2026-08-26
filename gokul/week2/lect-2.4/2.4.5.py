@@ -3,3 +3,4 @@
 # and all the non keywords in the second line
 
 # and,are,is,not,while,where,for,if,try,catch,except
+# non keywords: are,where,catch

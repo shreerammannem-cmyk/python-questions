@@ -2,3 +2,5 @@
 #     ```
 #     name="gokul"
 #     ```
+literal: "gokul"
+variable: name

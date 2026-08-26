@@ -7,3 +7,5 @@
 # print(a+b)
 # print(a*b)
 # ```
+30
+200

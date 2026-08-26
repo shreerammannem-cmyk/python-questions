@@ -3,4 +3,4 @@
 # n=int(input())
 # print(n)
 # ```
-
+syntax error

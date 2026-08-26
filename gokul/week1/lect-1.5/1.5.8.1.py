@@ -7,5 +7,5 @@ place="sathy"
         # x=f"{name} is a boy
 
 # gokul of age 25 is from sathy
-
-
+print(name + "of age" + str(age) + "is from" + place)
+print(name, "of age" , age , "is from" , place)

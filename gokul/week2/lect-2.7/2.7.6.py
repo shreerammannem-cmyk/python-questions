@@ -5,6 +5,11 @@
 INPUT: 'a'
 OUTPUT: 1
 '''
+alpha="abcdefghijklmnopqrstuvwxyz"
+
+user = input()
+
+print(alpha.index(user) + 1)
 
 # testcase 2
 '''

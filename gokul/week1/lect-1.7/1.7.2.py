@@ -6,3 +6,4 @@
 #     print(l[1])
 #     print(l[0])
 #     ```
+index error
