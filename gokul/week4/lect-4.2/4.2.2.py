@@ -2,3 +2,6 @@
 
 l=[1,2,3,4]
 
+x=4
+l.insert(x,46)
+print(l)

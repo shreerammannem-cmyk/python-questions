@@ -6,3 +6,11 @@
 
 # ip : discount(200,20)
 # op: 160
+def discount(cost, d):
+    final_cost = cost - (cost * d / 100)
+    return int(final_cost) if final_cost.is_integer() else final_cost
+
+
+# Test cases
+print(discount(100, 50))  # 50
+print(discount(200, 20))  # 160

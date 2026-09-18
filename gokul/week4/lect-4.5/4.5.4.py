@@ -1,3 +1,10 @@
 ## write a python code to print the minimum element of the list, using for loop
 
-l=[1,44,22,11,23,36,49,28,31,8,54,54]
+l=[1,44,22,11,23,36,49,28,31,8,54,54,0,-987]
+min_element = l[0]
+
+for i in l:
+    if i < min_element:
+        min_element = i
+
+print(min_element)

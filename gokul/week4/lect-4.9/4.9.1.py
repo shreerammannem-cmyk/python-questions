@@ -7,4 +7,4 @@
 #     6 2 3
 #     4 2 1 
 # 
-# multiply these two matrices using for loops
+# multiply these two matrices using for loops 

@@ -6,5 +6,9 @@ print(len(l))
 print(len(l[1]))
 print(len(l[2]))
 print(len(l[2][2]))
-print(len[l[-1]])
-print(len[l[-2]])
+# print(len[l[-1]])
+# print(len[l[-2]])
+4
+2
+4
+3

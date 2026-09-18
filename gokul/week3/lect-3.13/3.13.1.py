@@ -10,3 +10,8 @@ b
 c
 d
 '''
+x="abcd@gmail.com"
+for char in x:
+    if char == '@':
+        break
+    print(char)

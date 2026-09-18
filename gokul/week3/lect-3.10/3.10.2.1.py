@@ -6,7 +6,6 @@
 # INPUT 2 : abc
 # INPUT 3 : 20.5
 
-
-n=-123456
-m=abs(n)
-print(str(m)==str(m)[::-1])
+-121
+error
+error
