@@ -5,3 +5,12 @@
 # call these two functions and create one list in ascending order and another list in descending order by taking the list i
 
 # eg : [1,22,32,12,42,15]
+
+def min_element(lst):
+    return min(lst)
+
+print(min_element([4,2,3,1]))
+
+
+
+

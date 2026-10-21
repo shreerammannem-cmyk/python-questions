@@ -10,4 +10,9 @@
      ****
     *****
     ```
-    
+    print(      *)
+    print(     **)
+    print(    ***)
+    print(   ****)
+    piint(  *****)
+    print( ******)

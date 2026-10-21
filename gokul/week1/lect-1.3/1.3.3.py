@@ -1,6 +1,6 @@
 # 3) what will the output of the below code?
-# ```
-# print("hel",,,"eorld")
-# ```
-syntex error
+
+print("hel",,,"eorld")
+
+syntax error
 
